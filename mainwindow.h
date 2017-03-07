@@ -2,8 +2,9 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <string>
 #include <QString>
+#include <math.h>
+
 using namespace std;
 
 namespace Ui {
