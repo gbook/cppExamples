@@ -22,8 +22,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # You can also select to disable deprecated APIs only up to a certain version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
-INCLUDEPATH += "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib"
-INCLUDEPATH += "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include"
+#INCLUDEPATH += "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib"
+#INCLUDEPATH += "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include"
 
 SOURCES += main.cpp\
         mainwindow.cpp
